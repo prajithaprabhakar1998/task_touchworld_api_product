@@ -2,15 +2,7 @@
 
 A new Flutter project.
 
-## Getting Started
+#output
+![p1](https://github.com/prajithaprabhakar1998/task_touchworld_api_product/assets/129513433/dea8905b-e786-47c3-97d8-a660b5d19eb4)
+![p2](https://github.com/prajithaprabhakar1998/task_touchworld_api_product/assets/129513433/ba570748-aa39-4d87-8d87-dbbea6ac4fc2)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
